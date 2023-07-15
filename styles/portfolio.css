@@ -4,8 +4,6 @@ body {
     font-family: 'JetBrains Mono', monospace;
     word-spacing: -5px;
     letter-spacing: -1px;
-    width: 95%;
-    margin: 0 auto;
 }
 /* common shared styles*/
 .text-primary {
