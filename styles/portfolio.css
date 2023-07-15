@@ -242,6 +242,9 @@ textarea {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
     }
+    nav ul{
+        margin-top: -5px;
+    }
     .nav-title{
         text-align: center;
         margin-bottom: 30px;
@@ -282,8 +285,9 @@ textarea {
         text-align: justify;
     }
     .btn-primary{
-        padding: 10px 6px;
+        padding: 10px 15px;
         font-size: 3.5vw;
+        font-family: 'JetBrains Mono';
     }
     /* ------------- */
     .about{
